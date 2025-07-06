@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "992749946878",
+    "project_id": "moteregna-a44d2",
+    "storage_bucket": "moteregna-a44d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992749946878:android:88ff74ffd547009a58e2af",
+        "android_client_info": {
+          "package_name": "com.moteregna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnAin8FBOph86_nWY2k9mYCbF2cMDfMw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992749946878:android:764f7d562990915758e2af",
+        "android_client_info": {
+          "package_name": "com.moteregna.customer.moteregna_customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnAin8FBOph86_nWY2k9mYCbF2cMDfMw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
